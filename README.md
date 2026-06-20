@@ -1,4 +1,4 @@
 # my_first_repository
 This is my first Git repository.
 <br>
-Author - Krishna Agarwal
+Author - Krishna  (first step)
